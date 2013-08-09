@@ -9,8 +9,8 @@
 
 	<artifactId>kenyautil-api</artifactId>
 	<packaging>jar</packaging>
-	<name>KenyaUTIL API</name>
-	<description>API project for KenyaUTIL</description>
+	<name>KenyaUtil API</name>
+	<description>API project for KenyaUtil</description>
 
 	<build>
 		<resources>

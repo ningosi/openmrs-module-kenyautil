@@ -9,8 +9,8 @@
 
 	<artifactId>kenyautil-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>KenyaUTIL OMOD</name>
-	<description>OMOD project for KenyaUTIL</description>
+	<name>KenyaUtil OMOD</name>
+	<description>OMOD project for KenyaUtil</description>
 
 	<dependencies>
 		<dependency>

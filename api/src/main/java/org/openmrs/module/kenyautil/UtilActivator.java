@@ -21,49 +21,49 @@ import org.openmrs.module.ModuleActivator;
 /**
  * This class contains the logic that is run every time this module is either started or stopped.
  */
-public class KenyaUtilActivator implements ModuleActivator {
+public class UtilActivator implements ModuleActivator {
 	
-	protected static final Log log = LogFactory.getLog(KenyaUtilActivator.class);
+	protected static final Log log = LogFactory.getLog(UtilActivator.class);
 		
 	/**
 	 * @see ModuleActivator#willRefreshContext()
 	 */
 	public void willRefreshContext() {
-		log.info("Refreshing KenyaUTIL...");
+		log.info("Refreshing KenyaUtil...");
 	}
 	
 	/**
 	 * @see ModuleActivator#contextRefreshed()
 	 */
 	public void contextRefreshed() {
-		log.info("KenyaUTIL refreshed");
+		log.info("KenyaUtil refreshed");
 	}
 	
 	/**
 	 * @see ModuleActivator#willStart()
 	 */
 	public void willStart() {
-		log.info("Starting KenyaUTIL...");
+		log.info("Starting KenyaUtil...");
 	}
 	
 	/**
 	 * @see ModuleActivator#started()
 	 */
 	public void started() {
-		log.info("KenyaUTIL started");
+		log.info("KenyaUtil started");
 	}
 	
 	/**
 	 * @see ModuleActivator#willStop()
 	 */
 	public void willStop() {
-		log.info("Stopping KenyaUTIL...");
+		log.info("Stopping KenyaUtil...");
 	}
 	
 	/**
 	 * @see ModuleActivator#stopped()
 	 */
 	public void stopped() {
-		log.info("KenyaUTIL stopped");
+		log.info("KenyaUtil stopped");
 	}
 }

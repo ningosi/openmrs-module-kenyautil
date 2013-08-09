@@ -6,7 +6,7 @@
 	<version>0.3-SNAPSHOT</version>
 
 	<packaging>pom</packaging>
-	<name>KenyaUTIL</name>
+	<name>KenyaUtil</name>
 	<description>General utilities for the KenyaEMR</description>
 
 	<developers>
