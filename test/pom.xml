@@ -12,6 +12,33 @@
 	<name>KenyaUtil Testing</name>
 	<description>Testing project for KenyaUtil</description>
 
+	<dependencies>
+
+		<!-- Begin OpenMRS core -->
+
+		<dependency>
+			<groupId>org.openmrs.api</groupId>
+			<artifactId>openmrs-api</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.openmrs.web</groupId>
+			<artifactId>openmrs-web</artifactId>
+		</dependency>
+
+		<!-- End OpenMRS core -->
+
+		<!-- Begin external libraries -->
+
+		<dependency>
+			<groupId>org.hamcrest</groupId>
+			<artifactId>hamcrest-all</artifactId>
+		</dependency>
+
+		<!-- End external libraries -->
+
+	</dependencies>
+
 	<build>
 		<resources>
 			<resource>
