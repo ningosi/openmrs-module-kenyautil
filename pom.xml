@@ -3,7 +3,7 @@
 
 	<groupId>org.openmrs.module</groupId>
 	<artifactId>kenyautil</artifactId>
-	<version>0.2.3-SNAPSHOT</version>
+	<version>0.2.3</version>
 
 	<packaging>pom</packaging>
 	<name>KenyaUtil</name>
@@ -24,7 +24,7 @@
 		<connection>scm:git:git@github.com:I-TECH/openmrs-module-kenyautil.git</connection>
 		<developerConnection>scm:git:git@github.com:I-TECH/openmrs-module-kenyautil.git</developerConnection>
 		<url>scm:git:git@github.com:I-TECH/openmrs-module-kenyautil.git</url>
-		<tag>HEAD</tag>
+		<tag>0.2.3</tag>
 	</scm>
 
 	<modules>
