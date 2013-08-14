@@ -1,4 +1,6 @@
-KenyaUTIL OpenMRS Module
+KenyaUtil OpenMRS Module
 ===========================
 
-TODO
+This module provides general utilities shared by all KenyaEMR modules
+
+See https://wiki.openmrs.org/display/projects/KenyaEMR+Distribution for more information.
